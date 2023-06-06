@@ -1,6 +1,6 @@
 {
   "name": "Matheus C Silva",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/99561095?s=400&u=bdce6459899ad66209c2ca46a86c861037360937&v=4",
   "job": "Junior developer",
   "location": "São Paulo - SP",
   "phone": "(11) 96637-2620",
@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/MatheusCastro37/PortfolioMatheusCastro/main/data/imgs/html.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/MatheusCastro37/PortfolioMatheusCastro/main/data/imgs/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/MatheusCastro37/PortfolioMatheusCastro/main/data/imgs/js.png"
       }
     ],
     "softSkills": [
@@ -33,7 +33,7 @@
   "portfolio": [
     {
       "name": "Criação de uma Pokedex ministrado no curso de JS na DIO",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/MatheusCastro37/Pokedex_DIO",
       "github": true
     }
   ],
