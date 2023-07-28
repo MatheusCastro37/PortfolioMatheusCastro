@@ -44,6 +44,11 @@
       "name": "Site que busca repositórios de usuarios do GitHub",
       "url": "https://github.com/MatheusCastro37/GitFind_DIO",
       "github": true
+    },
+    {
+      "name": "Clone do antigo site da Digital Innovation One",
+      "url": "https://github.com/MatheusCastro37/DIO_Clone",
+      "github": true
     }
   ],
   "professionalExperience": [
