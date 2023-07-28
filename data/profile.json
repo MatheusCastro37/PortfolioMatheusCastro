@@ -18,6 +18,10 @@
       {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/MatheusCastro37/PortfolioMatheusCastro/main/data/imgs/js.png"
+      },
+      {
+        "name": "ReactJS",
+        "logo": "https://raw.githubusercontent.com/MatheusCastro37/PortfolioMatheusCastro/main/data/imgs/react.png"
       }
     ],
     "softSkills": [
