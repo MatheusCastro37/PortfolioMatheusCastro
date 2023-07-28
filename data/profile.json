@@ -33,12 +33,12 @@
   "portfolio": [
     {
       "name": "Site para busca de filmes e suas informações principais",
-      "url": "https://movie-find-ivory.vercel.app",
+      "url": "https://github.com/MatheusCastro37/Movie_Find",
       "github": true
     },
     {
       "name": "Site que busca repositórios de usuarios do GitHub",
-      "url": "https://git-find-two.vercel.app",
+      "url": "https://github.com/MatheusCastro37/GitFind_DIO",
       "github": true
     }
   ],
