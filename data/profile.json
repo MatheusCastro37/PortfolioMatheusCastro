@@ -32,8 +32,13 @@
   ],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex ministrado no curso de JS na DIO",
-      "url": "https://github.com/MatheusCastro37/Pokedex_DIO",
+      "name": "Site para busca de filmes e suas informações principais",
+      "url": "https://movie-find-ivory.vercel.app",
+      "github": true
+    },
+    {
+      "name": "Site que busca repositórios de usuarios do GitHub",
+      "url": "https://git-find-two.vercel.app",
       "github": true
     }
   ],
